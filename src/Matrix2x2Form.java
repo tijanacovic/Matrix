@@ -282,6 +282,7 @@ public class Matrix2x2Form extends javax.swing.JFrame {
         );
 
         pack();
+        setLocationRelativeTo(null);
     }// </editor-fold>//GEN-END:initComponents
 
     private void SabiranjeMatricaButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_SabiranjeMatricaButtonActionPerformed
