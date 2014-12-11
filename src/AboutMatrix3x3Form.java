@@ -123,6 +123,7 @@ public class AboutMatrix3x3Form extends javax.swing.JFrame {
         );
 
         pack();
+        setLocationRelativeTo(null);
     }// </editor-fold>//GEN-END:initComponents
 
     /**

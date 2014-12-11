@@ -267,6 +267,7 @@ public class Matrix3x3Form extends javax.swing.JFrame {
         );
 
         pack();
+        setLocationRelativeTo(null);
     }// </editor-fold>//GEN-END:initComponents
 
     private void DeterminantaButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_DeterminantaButtonActionPerformed
